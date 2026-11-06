@@ -43,7 +43,6 @@ El proyecto está dividido en dos repositorios independientes:
 
 **Backend**
 - NestJS
-- Node.js
 - TypeScript
 - MongoDB
 - Mongoose
@@ -58,14 +57,6 @@ ORION utiliza una arquitectura cliente-servidor basada en una API REST.
 
 El frontend se comunica con el backend para consultar y gestionar los datos de la aplicación. La autenticación y el control de acceso según los roles de usuario se realizan mediante tokens JWT y rutas protegidas.
 
-## Posibles mejoras futuras
-
-- Integración de una pasarela de pago real (Stripe o PayPal).
-- Implementación de notificaciones push.
-- Sistema de recomendaciones de películas.
-- Generación de entradas PDF con códigos QR.
-- Panel de estadísticas para administradores.
-- Ampliación para gestionar múltiples cines.
 
 ## Autor
 
